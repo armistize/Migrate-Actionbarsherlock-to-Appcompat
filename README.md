@@ -10,4 +10,3 @@
 | getSherlockActivity()  | getActivity() |
 | getActionBar()  | getSupportActionBar()  |
 | invalidateOptionsMenu()  | supportInvalidateOptionsMenu() |
-| STORAGE  | READ_EXTERNAL_STORAGE <br> WRITE_EXTERNAL_STORAGE  |
